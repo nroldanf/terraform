@@ -71,4 +71,3 @@ Configuraciones por cada tipo de ambiente (DEV/QA/PROD) por medio de parametros 
 - Visibilidad y trazabilidad, todos los cambios quedan registrados.
 - Ambientes homogéneos, una misma definición permite crear varios ambientes.
 - Fácil de testear : [Testing Terraform](https://www.terraform.io/docs/extend/testing/unit-testing.html)
-
